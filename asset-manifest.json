@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw2-resume-react/static/css/main.b2c62e5d.css",
+    "main.js": "/hw2-resume-react/static/js/main.57c80a9e.js",
+    "index.html": "/hw2-resume-react/index.html",
+    "main.b2c62e5d.css.map": "/hw2-resume-react/static/css/main.b2c62e5d.css.map",
+    "main.57c80a9e.js.map": "/hw2-resume-react/static/js/main.57c80a9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c62e5d.css",
+    "static/js/main.57c80a9e.js"
+  ]
+}
