@@ -16,7 +16,6 @@ class WorkExperience extends Component {
             <p>{this.props.workExperience.description}</p>
           </div>
         </div>
-        <hr />
       </div>
     );
   }
