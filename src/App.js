@@ -49,14 +49,17 @@ class App extends Component {
     return (
       <div className="App">
         <Header headerInfo={this.state.headerInfo}></Header>
-        <PersonalProfile
-          personalProfile={this.state.personalProfile}
-        ></PersonalProfile>
-        <WorkExperience
-          workExperience={this.state.workExperience}
-        ></WorkExperience>
-        <Skills skill={this.state.skill}></Skills>
-        <Education education={this.state.education}></Education>
+
+        <div className="portfolio">
+          <PersonalProfile
+            personalProfile={this.state.personalProfile}
+          ></PersonalProfile>
+          <WorkExperience
+            workExperience={this.state.workExperience}
+          ></WorkExperience>
+          <Skills skill={this.state.skill}></Skills>
+          <Education education={this.state.education}></Education>
+        </div>
       </div>
     );
   }
