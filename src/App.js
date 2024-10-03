@@ -24,6 +24,7 @@ class App extends Component {
           "  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ",
       },
       workExperience: {
+        title: "Work Experience",
         job1: "Job Title at Company (August 2022 – December 2023)",
         job2: "Job Title at Company (August 2020 – December 2021)",
         description:

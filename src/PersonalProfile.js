@@ -10,6 +10,7 @@ class PersonalProfile extends Component {
             <p>{this.props.personalProfile.description}</p>
           </div>
         </div>
+        <hr />
       </div>
     );
   }
