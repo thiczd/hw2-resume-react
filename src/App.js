@@ -34,14 +34,15 @@ class App extends Component {
         skill: "A Key Skill",
       },
       education: {
+        main: "Education",
         title1: "New Jersey Insitute of Technlogy",
         description1: "BS in Computer Science",
         date1: "2022-2024",
-        gpa1: "3.20",
+        gpa1: "GPA: 3.20",
         title2: "Ocean County College",
         description2: "AS in Computer Science",
         date2: "2020-2022",
-        gpa2: "3.5",
+        gpa2: "GPA: 3.5",
       },
     };
   }

@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class WorkExperience extends Component {
   render() {
     return (
-      <div>
+      <div class="section">
         <h3>{this.props.workExperience.title}</h3>
         <div class="section-job">
           <div>
